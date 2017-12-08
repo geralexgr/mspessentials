@@ -5,6 +5,7 @@ A guide for Microsoft's technologies, tools, frameworks, libraries and more.
 
 * [Education](#education)
 * [Resources](#resources)
+* [Tutorials](#tutorials)
 * [Blogs](#blogs)
 
 ## Education
@@ -17,6 +18,13 @@ A guide for Microsoft's technologies, tools, frameworks, libraries and more.
 
 * [UWP app samples](https://github.com/Microsoft/Windows-universal-samples) - Samples that demonstrate the API usage patterns for the Universal Windows Platform.
 * [UWP Community Toolkit](https://github.com/Microsoft/UWPCommunityToolkit) - The UWP Community Toolkit is a collection of helper functions, custom controls, and app services.
+* [Academic Resources for Computer Science](https://github.com/MSFTImagine/computerscience) - Free technical resources for faculty, students, and Microsoft developer advocates for use in computer science learning forums.
+* [Technical Community Content](https://github.com/Microsoft/TechnicalCommunityContent) - Includes technical content about Cloud and other technologies, optimized for use within Technical Community Events.
+
+## Tutorials
+
+* [VS Code Tips and Tricks](https://github.com/Microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
+
 
 ## Blogs
 
