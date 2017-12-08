@@ -3,9 +3,9 @@ A guide for Microsoft's technologies, tools, frameworks, libraries and more.
 
 # Table of Contents
 
-* [Education](#Education)
+* [Education](#education)
 * [Resources](#resources)
-* [Blogs](#Blogs)
+* [Blogs](#blogs)
 
 ## Education
 
