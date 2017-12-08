@@ -7,6 +7,8 @@ A guide for Microsoft's technologies, tools, frameworks, libraries and more.
 * [Resources](#resources)
 * [Tutorials](#tutorials)
 * [Blogs](#blogs)
+* [Windows](#windows)
+* [Products](#products)
 
 ## Education
 
@@ -30,3 +32,15 @@ A guide for Microsoft's technologies, tools, frameworks, libraries and more.
 
 * [Scott Hanselman](http://www.hanselman.com/blog/) - Principal Program Manager - Open Source .NET/ASP.NET, Microsoft Azure, and Web Tools.
 * [James Montemagno](https://montemagno.com/) - Principal Program Manager - Mobile Developer Tools
+* [Windows Developer Blog](https://blogs.windows.com/buildingapps/) -  Building Apps for Windows.
+* [Developer Tools Blog](https://blogs.msdn.microsoft.com/developer-tools/) -  Developer tools news and updates.
+
+## Windows
+
+* [Windows Insider Program](https://insider.windows.com/en-us/) - Get the latest Windows features
+
+## Products
+
+* [Microsoft Bot Framework](https://dev.botframework.com/) - A platform for building, connecting, testing, and deploying powerful and intelligent bots.
+* [Xamarin](https://www.xamarin.com/) - Build native apps for multiple platforms on a shared C# codebase. Use the same IDE, language, and APIs everywhere.
+
