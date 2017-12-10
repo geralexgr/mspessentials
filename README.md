@@ -38,9 +38,14 @@ A guide for Microsoft's technologies, tools, frameworks, libraries and more.
 ## Windows
 
 * [Windows Insider Program](https://insider.windows.com/en-us/) - Get the latest Windows features
+* [Windows Dev Center](https://developer.microsoft.com/en-us/windows) - Content, samples, downloads, design inspiration,and other resources you need to complete your app or game development project for Windows.
+
 
 ## Products
 
 * [Microsoft Bot Framework](https://dev.botframework.com/) - A platform for building, connecting, testing, and deploying powerful and intelligent bots.
 * [Xamarin](https://www.xamarin.com/) - Build native apps for multiple platforms on a shared C# codebase. Use the same IDE, language, and APIs everywhere.
+* [Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/) - Infuse your apps, websites and bots with intelligent algorithms to see, hear, speak, understand and interpret your user needs.
+
+
 
