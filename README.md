@@ -14,7 +14,7 @@ A guide for Microsoft's technologies, tools, frameworks, libraries and more.
 
 * [Microsoft Virtual Academy](https://mva.microsoft.com/) - Free Online Training for Developers, IT Professionals and Data Scientists
 * [Channel 9](https://channel9.msdn.com/) - Videos for developers from the people building Microsoft Products & Services.
-
+* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - Sharpen your technology skills with in-depth, on-demand training in virtual classrooms led by Microsoft Certified Trainers.
 
 ## Resources
 
